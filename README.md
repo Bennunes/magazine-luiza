@@ -5,3 +5,5 @@
 2. Removi as colunas vazias.
 
 3. Fiz um "merge" entre as tabelas e subi no Data Studio.
+
+Data Studio: https://datastudio.google.com/reporting/7471fc6b-4cba-497e-aabc-85c7f27e4152
